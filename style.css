@@ -1,0 +1,453 @@
+/* Theme Name: A Mídia Feia 
+Author: Emilio Haro
+Author URI: http://s2.glbimg.com/yx7KRm3zxIOBVc3VSVqBURKn8Ic=/320x0/top/s.glbimg.com/jo/eg/f/original/2015/11/10/13889-mlb226022933_8701-o.jpg
+Description: Mídia De Teste
+Version: 1.0  */
+
+/* paginaCultura */
+
+a {text-decoration: none;
+    color:black;
+    }
+    
+    
+    .CarregarMais{
+       padding-top: 80px;
+    float:left;
+    font-size: 25px;
+    
+    font-family: 'Baloo Bhai', cursive;
+    
+    }
+    .InfoPage{
+        height: 100px;
+        width: 100%;
+        
+    }   
+    .CulturaCard-titulo{
+    font-size: 25px;
+    
+    font-family: 'Baloo Bhai', cursive;
+    }
+    .CulturaCard-Subtitulo{
+    font-size: 15px;
+    line-height:15px;
+    font-family: 'Baloo Bhai', cursive;
+    color:gray;
+    
+    
+    }
+    .DashBoard2{
+        align-content: center;
+       height: 1500px;
+      width: 50%;
+      padding-left: 25%;
+      padding-right: 25%;
+    }
+    .categoria{
+        
+        float: left;
+        font-family: 'Baloo Bhai', cursive;
+        font-size: 40px;
+    }
+    .CardCultura{
+    width: 31%;
+    padding: 1%;
+    float:left;
+    
+    }
+  /*   #uppercase{
+        text-transform: uppercase;
+    } */
+    #CulturaCardImagem1{
+    
+    width: 100%;
+    height: 200px;
+    
+    }
+    .wp_content p:first-child:first-letter { 
+        float: left; 
+        color: black; 
+        font-size: 85px; 
+        line-height: 60px; 
+        padding-top: 20px; 
+        padding-right: 8px; 
+        padding-left: 3px; 
+        font-family: 'Playfair Display', serif;
+        font-family: 'Special Elite', cursive;
+      }
+    
+    .DashBoardMateriaCultura{
+    
+        align-content: center;
+    
+      width: 50%;
+      padding-left: 25%;
+      padding-right: 25%;
+    }
+    .CategoriaMateria{
+        font-size: 20px;
+       color: darkgray;
+       font-family: 'Baloo Bhai', cursive;
+       line-height: 10px;
+       text-transform: uppercase;
+
+    }
+    .TituloMateria{
+       font-size: 40px;
+       font-family: 'Baloo Bhai', cursive;
+       line-height: 10px;
+    }
+    .SubtituloMateria{
+        text-align: justify;
+       line-height: 20px;
+        font-size: 22px;
+       font-family: 'Baloo Bhai', cursive;
+       padding-bottom: 30px;
+    
+    }
+    .TextoCultura{
+        font-size: 20px;
+      
+        font-family: 'Playfair Display', serif;
+        font-family: 'Special Elite', cursive;
+        line-height: 25px;
+    }
+    .CapaCultura{
+        padding-bottom: 10px;
+        
+    }
+    #FotoCapaCultura{
+     
+      width: 100%;
+        height: 600px;
+        padding-bottom: 5px;
+    
+    }
+    .LegendaCapa{
+        font-size: 20px;
+       font-family: 'Baloo Bhai', cursive;
+       padding-bottom: 15px;
+    }
+    .autor_data{
+        padding-top: 15px;
+        color: darkgray;
+        font-family: 'Baloo Bhai', cursive;
+        line-height: 20px;
+    }
+    #DataPost{
+        line-height: 5px;
+        padding-left: 15px;
+    }
+
+
+
+
+/* paginaCultura */
+
+
+
+   
+.fotter{
+    text-align: center;
+    font-size: 15px;
+    padding-top:30px;
+     padding: 5px;
+     font-family: 'Stylish', sans-serif;
+}
+ .headder-container{
+     padding: 40px;
+     padding-bottom: 40px;
+     text-align: center;  
+     color:black; 
+     font-family: 'Stylish', sans-serif;
+ }
+ .header-titulo{
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 50px;
+    }
+ .header-subtitulo{
+     font-size: 15px;
+     padding: 5px;
+     font-family: 'Stylish', sans-serif;
+ }
+ .headder-container{
+
+
+ }
+    #menu-header ul {
+    padding:0px;
+    margin:0px;
+   
+    list-style:none;
+}
+ #menu-header ul li { display: inline; }
+ #menu-header:hover {color:darkgray;  }
+
+ #menu-header  ul li a {
+padding: 2px 10px;
+display: inline-block;
+font-size: 15px;        
+/* visual do link */
+
+color: #333;
+text-decoration: none;
+
+}
+#menu-header  ul li a:hover{
+padding: 2px 10px;
+display: inline-block;
+
+/* visual do link */
+font-size: 20px;  
+color: gray;
+text-decoration: none;
+
+}
+.Cover-container{
+padding: 22px;
+float: left;
+
+max-height: 750px;
+
+
+
+}
+#coverImage{
+width: 100%;
+height: 600px;
+
+}
+#Categoria{
+
+font-style: normal;
+color:red;
+font-size:20px;
+}
+#Titulo-capa{
+font-size: 30px;
+font-family: 'Baloo Bhai', cursive;
+}
+.Cover-Subtitulo{
+font-size: 20px;
+font-family: 'Stylish', sans-serif;
+}
+.Titulo-Box-atualidades{
+font-size: 25px;
+
+font-family: 'Baloo Bhai', cursive;
+
+}
+.subtitulo-Box-atualidades{
+font-size: 12px;
+
+font-family: 'Stylish', sans-serif;
+
+}
+.Titulo-Box-Cultura{
+font-size: 25px;
+
+font-family: 'Baloo Bhai', cursive;
+}
+.Box-atualidades-container{
+width: 20%;
+float:left; 
+padding: 2.5%;
+font-family: 'Stylish', sans-serif;
+height: 200px;
+}
+.Grid-Artigos{
+padding: 20px;
+}
+
+.Box-Cultura-container{
+width: 20%;
+float:right; 
+padding: 2.5%;
+height: 250px;
+}
+
+
+
+
+
+
+
+
+#menu-header ul li { display: inline; 
+font-size: 6px;
+}
+#menu-header:hover {color:darkgray; 
+font-size: 6px; }
+
+.Cover-container{
+padding: 22px;
+
+width: 60%;
+max-height: 750px;
+
+
+
+}
+
+#coverImage{
+width: 100%;
+height: 500px;
+
+}
+#Categoria{
+font-family: 'Open Sans';
+font-style: normal;
+color:red;
+font-size:20px;
+}
+#Titulo-capa{
+font-size:20px;
+
+}
+.Cover-Subtitulo{
+font-size: 15px;
+}
+.Titulo-Box-atualidades{
+font-size: 17px;
+
+font-family: 'Baloo Bhai', cursive;
+
+}
+.subtitulo-Box-atualidades{
+font-size: 15px;
+font-family: 'Stylish', sans-serif;
+
+}
+.Titulo-Box-Cultura{
+font-size: 17px;
+
+font-family: 'Baloo Bhai', cursive;
+
+}
+
+.subtitulo-Box-Cultura{
+font-size: 15px;
+font-family: 'Stylish', sans-serif;
+
+}
+.Titulo-Box-EV{
+font-size: 20px;
+
+font-family: 'Baloo Bhai', cursive;
+
+}
+.subtitulo-Box-EV{
+font-size: 18px;
+
+font-family: 'Stylish', sans-serif;
+}
+
+.Box-atualidades-container{
+width: 45%;
+float:left; 
+padding: 2.5%;
+height: 250px;
+}
+.Grid-Artigos1{
+padding: 20px;
+}
+#ImagemArtigo1{
+width: 100%;
+height: 90%;
+}
+.Box-Cultura-container{
+width: 45%;
+float:right; 
+padding: 2.5%;
+height: 250px;
+}
+.Box-EV-container1{
+position: absolute;
+    width: 100%;
+
+padding: 2.5%;
+height: 700px;
+
+}
+
+.Box-EV-container2{
+width: 100%;
+
+padding: 2.5%;
+height: 8000px;
+
+}
+.Atualidades{
+    background-color: red;
+    height: 3000px;
+}
+.FundoGrid{
+    height: 1000px;
+}
+
+.DashBoard{
+align-content: center;
+height: 3500px;
+width: 50%;
+padding-left: 25%;
+padding-right: 25%;
+
+
+}
+.DashBoardHome{
+align-content: center;
+height: 3500px;
+width: 50%;
+padding-left: 25%;
+padding-right: 25%;
+
+
+}
+#ImagemArtigo2{
+height: 600px;
+min-width: 100%;
+
+}
+.EmAlta-container{
+padding: 22px;
+width: 28%;
+float:right;
+}
+#EmAltaImagem1{
+
+
+}
+#EmAltaImagem2{
+
+
+}
+.EmAlta-Subtitulo{
+font-size: 15px;
+font-family: 'Stylish', sans-serif;
+}
+
+/* The wrapper <div> for the caption and captioned element. */
+.wp-caption { 
+    
+}
+
+/* The caption text. */
+.wp-caption-text { 
+   
+}
+
+/* An image within the caption (you might want to style other elements too). */
+.wp-caption img { 
+    
+}
+figcaption{
+    line-height: 10px;
+    font-size: 15px;
+    font-family: 'Baloo Bhai', cursive;
+    padding-bottom: 15px;
+}
+.Atualidades{
+    background-color: red;
+}
+
